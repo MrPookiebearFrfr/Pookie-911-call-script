@@ -24,6 +24,7 @@ A FiveM resource for handling 911 emergency calls, allowing players to send emer
 
 - Players: `/911a <your emergency>` to send a 911 call.
 - Law enforcement: Go on duty to receive calls.
+- law enforcement need to do /dutylawin this will be fixed in newer updates
 
 ## Notes
 
